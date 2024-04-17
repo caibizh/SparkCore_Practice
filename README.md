@@ -1,5 +1,5 @@
 # SparkCore_Practice
-该项目基于电影数据（评分，用户，电影详细，用户职业4个数据集），可用于构建rdd，练习SparkCore语法、
+该项目基于电影数据（评分，用户，电影详细，用户职业4个数据集），可用于构建rdd，练习SparkCore语法\n
 moive-data为本项目示例数据集
 数据意义：
  1，"ratings.dat"：UserID::MovieID::Rating::Timestamp
